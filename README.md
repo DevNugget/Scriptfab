@@ -31,6 +31,8 @@ Write the name of command that you want to type when running the python file ins
 Scroll up to find this, ![image](https://user-images.githubusercontent.com/84568105/127275551-16a307a7-4c65-4d9a-bd32-afe1767dcd9d.png)
 Then create a new list value as a string and add the name of the command you used ![image](https://user-images.githubusercontent.com/84568105/127275864-c7b73a17-3303-4f3c-b9b6-269b30f8f874.png)
 
+To add more script prefabs, just re create a similar function and elif statement.
+
 # Scriptfab - End result/Running the py file
 Requirements: Python
 Go to where you have the python file using file explorer.
