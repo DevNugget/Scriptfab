@@ -41,7 +41,8 @@ func _physics_process(delta):
         if is_on_floor():
             velocity.y = jump_speed
 	"""
-	script = open("Platformer2DScript.gd", "x");
+	filename = input("What do you want to name file? (use extention too): ")
+	script = open(filename, "x");
 	script.write(platformer_script);
 	print("Script Created");
 	script.close();
@@ -51,7 +52,8 @@ def script_demo():
 	script_content = """
 # Delete this comment and copy paste/write the script you want to re-use here
 """
-	script = open("file_name.file_extention", "x"); # Put the filename and file extention ex: main.py (don't touch "x")
+	filename = input("What do you want to name file? (use extention too): ")
+	script = open(filename, "x"); # Put the filename and file extention ex: main.py (don't touch "x")
 	script.write(script_content);
 	print("Script Created");
 	script.close();
