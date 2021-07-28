@@ -15,13 +15,6 @@ Then copy/paste or write the script there,
 example:
 ![image](https://user-images.githubusercontent.com/84568105/127274074-858de992-0ae2-48d4-80c0-c47d8ea5e560.png)
 
-Now set your file name and file extentsion,
-example:
-![image](https://user-images.githubusercontent.com/84568105/127274479-586116b6-3f80-4d18-b31d-5655c45c47d4.png)
-< this is what you will first see.
-![image](https://user-images.githubusercontent.com/84568105/127274630-3ad4fc27-2741-4798-ad0a-f5971156f63e.png)
-< this is changed to the file extention that I wrote my script in helloworld being the file name and .cs being C# file.
-
 Now to configure the command
 Scroll down to find this,
 ![image](https://user-images.githubusercontent.com/84568105/127275198-0d276489-4a8e-40f3-a683-faebcbb1a7c7.png)
@@ -55,6 +48,9 @@ Type in 'scripts' to see the list of scripts you added.
 
 Then type in the command you defined before.
 ![image](https://user-images.githubusercontent.com/84568105/127277792-1f91a7e6-4b9e-4148-a99e-629de80237f1.png)
+
+Then type the filename and file extentsion.
+![image](https://user-images.githubusercontent.com/84568105/127281656-f4574440-09c1-4775-a8ec-99ecbdd5dfee.png)
 
 Check again in the folder to see the script you defined before magically appeared!
 ![image](https://user-images.githubusercontent.com/84568105/127277920-42617822-e14f-4527-80bd-1999cdb77c18.png)
